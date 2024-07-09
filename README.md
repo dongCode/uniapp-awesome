@@ -13,6 +13,10 @@
 - [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) 京东风格的轻量级移动端组件库，基于 uniapp 与 Vue3，支持移动端 H5 和 小程序开发
 
 - [cool-uni](https://github.com/cool-team-official/cool-uni) 简洁易用的 uni-app 组件库
+  
+## 组件
+- [z-paging](https://github.com/SmileZXLee/uni-z-paging) : 【uni-app下拉刷新、上拉加载】高性能，全平台兼容。支持vue、nvue、vue2、vue3，使用wxs+renderjs实现。支持虚拟列表，支持自定义下拉刷新、上拉加载更多，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持国际化等100+项配置
+
 
 ## 模板
 
