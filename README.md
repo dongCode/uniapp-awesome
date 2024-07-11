@@ -12,6 +12,7 @@
 - [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) 京东风格的轻量级移动端组件库，基于 uniapp 与 Vue3，支持移动端 H5 和 小程序开发
 
 - [cool-uni](https://github.com/cool-team-official/cool-uni) 简洁易用的 uni-app 组件库
+- [ano-ui](https://github.com/ano-ui/ano-ui) 轻量级、漂亮、快速的 UnoCSS 组件库
 
 ## 单组件
 
